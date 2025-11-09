@@ -97,7 +97,9 @@ Przykładowy docelowy kod wynikowy w pliku `MessageChains.cs`.
 
 #### Refused Bequest (Odrzucony spadek)
 
-Masz klasę Manager dziedziczącą po Employee, ale Manager nie używa wszystkich metod odziedziczonych po Employee. Twoim zadaniem jest usunięcie niepotrzebnego dziedziczenia i wprowadzenie bardziej odpowiedniego rozwiązania.
+Masz klasę Manager dziedziczącą po Employee,
+ale Manager nie używa wszystkich metod odziedziczonych po Employee.
+Twoim zadaniem jest usunięcie niepotrzebnego dziedziczenia i wprowadzenie bardziej odpowiedniego rozwiązania.
 
 Kod do refaktoryzacji:
 

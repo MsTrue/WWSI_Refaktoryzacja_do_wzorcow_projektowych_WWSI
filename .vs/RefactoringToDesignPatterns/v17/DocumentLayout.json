@@ -1,60 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\",
+  "WorkspaceRootPath": "C:\\Users\\Natalia\\Desktop\\WPiAA\\refaktoryzacja-do-wzorcow-projektowych\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{022873F3-A4F9-40B7-9D7B-8C3DB6CA657C}|..\\SantaClausFactoryLive\\SantaClausFactoryLive.csproj|c:\\prywatne\\szkolenia\\refactoring\\santaclausfactorylive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\users\\natalia\\desktop\\wpiaa\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\codesmelltasks\\rozwiazania\\shotgunsurgerysolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\codesmelltasks\\rozwiazania\\shotgunsurgerysolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{022873F3-A4F9-40B7-9D7B-8C3DB6CA657C}|..\\SantaClausFactoryLive\\SantaClausFactoryLive.csproj|c:\\prywatne\\szkolenia\\refactoring\\santaclausfactorylive\\elf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\users\\natalia\\desktop\\wpiaa\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\shotgunsurgery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\shotgunsurgery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{022873F3-A4F9-40B7-9D7B-8C3DB6CA657C}|..\\SantaClausFactoryLive\\SantaClausFactoryLive.csproj|c:\\prywatne\\szkolenia\\refactoring\\santaclausfactorylive\\santafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\users\\natalia\\desktop\\wpiaa\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{022873F3-A4F9-40B7-9D7B-8C3DB6CA657C}|..\\SantaClausFactoryLive\\SantaClausFactoryLive.csproj|c:\\prywatne\\szkolenia\\refactoring\\santaclausfactorylive\\rod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\users\\natalia\\desktop\\wpiaa\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\codesmelltasks\\rozwiazania\\lazyclasssolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\codesmelltasks\\rozwiazania\\lazyclasssolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{022873F3-A4F9-40B7-9D7B-8C3DB6CA657C}|..\\SantaClausFactoryLive\\SantaClausFactoryLive.csproj|c:\\prywatne\\szkolenia\\refactoring\\santaclausfactorylive\\toy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\users\\natalia\\desktop\\wpiaa\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\codesmelltasks\\rozwiazania\\speculativegeneralitysolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\codesmelltasks\\rozwiazania\\speculativegeneralitysolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{022873F3-A4F9-40B7-9D7B-8C3DB6CA657C}|..\\SantaClausFactoryLive\\SantaClausFactoryLive.csproj|c:\\prywatne\\szkolenia\\refactoring\\santaclausfactorylive\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\users\\natalia\\desktop\\wpiaa\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\longmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\longmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch06_netdesignpatterns\\workshop01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch06_netdesignpatterns\\workshop01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\users\\natalia\\desktop\\wpiaa\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\middleman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\middleman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch06_netdesignpatterns\\workshop01\\tworzeniezamowien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch06_netdesignpatterns\\workshop01\\tworzeniezamowien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\users\\natalia\\desktop\\wpiaa\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch06_netdesignpatterns\\workshop01\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch06_netdesignpatterns\\workshop01\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch06_netdesignpatterns\\workshop01\\obslugadzialanzwiazanychzzamowieniem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch06_netdesignpatterns\\workshop01\\obslugadzialanzwiazanychzzamowieniem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch06_netdesignpatterns\\command\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch06_netdesignpatterns\\command\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch06_netdesignpatterns\\workshop01\\zarzadzaniestatusemzamowienia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch06_netdesignpatterns\\workshop01\\zarzadzaniestatusemzamowienia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch06_netdesignpatterns\\workshop01\\powiadomienia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch06_netdesignpatterns\\workshop01\\powiadomienia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch06_netdesignpatterns\\workshop01\\obliczaniekosztowdostawy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch06_netdesignpatterns\\workshop01\\obliczaniekosztowdostawy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch06_netdesignpatterns\\zadania\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch06_netdesignpatterns\\zadania\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\users\\natalia\\desktop\\wpiaa\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\codesmelltasks\\rozwiazania\\divergentchangesolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\codesmelltasks\\rozwiazania\\divergentchangesolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -64,194 +46,130 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SantaFactory.cs",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\SantaClausFactoryLive\\SantaFactory.cs",
-              "RelativeDocumentMoniker": "..\\SantaClausFactoryLive\\SantaFactory.cs",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\SantaClausFactoryLive\\SantaFactory.cs",
-              "RelativeToolTip": "..\\SantaClausFactoryLive\\SantaFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T10:15:50.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Elf.cs",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\SantaClausFactoryLive\\Elf.cs",
-              "RelativeDocumentMoniker": "..\\SantaClausFactoryLive\\Elf.cs",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\SantaClausFactoryLive\\Elf.cs",
-              "RelativeToolTip": "..\\SantaClausFactoryLive\\Elf.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T10:11:54.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Rod.cs",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\SantaClausFactoryLive\\Rod.cs",
-              "RelativeDocumentMoniker": "..\\SantaClausFactoryLive\\Rod.cs",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\SantaClausFactoryLive\\Rod.cs",
-              "RelativeToolTip": "..\\SantaClausFactoryLive\\Rod.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T10:09:16.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Toy.cs",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\SantaClausFactoryLive\\Toy.cs",
-              "RelativeDocumentMoniker": "..\\SantaClausFactoryLive\\Toy.cs",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\SantaClausFactoryLive\\Toy.cs",
-              "RelativeToolTip": "..\\SantaClausFactoryLive\\Toy.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T10:08:55.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Gift.cs",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\SantaClausFactoryLive\\Gift.cs",
-              "RelativeDocumentMoniker": "..\\SantaClausFactoryLive\\Gift.cs",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\SantaClausFactoryLive\\Gift.cs",
-              "RelativeToolTip": "..\\SantaClausFactoryLive\\Gift.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Title": "LongMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\WPiAA\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\LongMethod.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\LongMethod.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\WPiAA\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\LongMethod.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\LongMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T10:07:02.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\SantaClausFactoryLive\\Program.cs",
-              "RelativeDocumentMoniker": "..\\SantaClausFactoryLive\\Program.cs",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\SantaClausFactoryLive\\Program.cs",
-              "RelativeToolTip": "..\\SantaClausFactoryLive\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T10:06:36.885Z",
+              "WhenOpened": "2025-10-19T08:54:55.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH06_NetDesignPatterns\\Workshop01\\Program.cs",
-              "RelativeDocumentMoniker": "CH06_NetDesignPatterns\\Workshop01\\Program.cs",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH06_NetDesignPatterns\\Workshop01\\Program.cs",
-              "RelativeToolTip": "CH06_NetDesignPatterns\\Workshop01\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Title": "MiddleMan.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\WPiAA\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\MiddleMan.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\MiddleMan.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\WPiAA\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\MiddleMan.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\MiddleMan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:27:00.567Z",
+              "WhenOpened": "2025-10-19T08:48:36.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH06_NetDesignPatterns\\Workshop01\\Order.cs",
-              "RelativeDocumentMoniker": "CH06_NetDesignPatterns\\Workshop01\\Order.cs",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH06_NetDesignPatterns\\Workshop01\\Order.cs",
-              "RelativeToolTip": "CH06_NetDesignPatterns\\Workshop01\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "DivergentChangeSolution.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\WPiAA\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\CodeSmellTasks\\Rozwiazania\\DivergentChangeSolution.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\CodeSmellTasks\\Rozwiazania\\DivergentChangeSolution.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\WPiAA\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\CodeSmellTasks\\Rozwiazania\\DivergentChangeSolution.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\CodeSmellTasks\\Rozwiazania\\DivergentChangeSolution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:26:45.649Z"
+              "WhenOpened": "2025-10-19T08:38:02.687Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Ordering.cs",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH06_NetDesignPatterns\\Command\\Ordering.cs",
-              "RelativeDocumentMoniker": "CH06_NetDesignPatterns\\Command\\Ordering.cs",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH06_NetDesignPatterns\\Command\\Ordering.cs",
-              "RelativeToolTip": "CH06_NetDesignPatterns\\Command\\Ordering.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:25:28.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ObslugaDzialanZwiazanychzZamowieniem.cs",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH06_NetDesignPatterns\\Workshop01\\ObslugaDzialanZwiazanychzZamowieniem.cs",
-              "RelativeDocumentMoniker": "CH06_NetDesignPatterns\\Workshop01\\ObslugaDzialanZwiazanychzZamowieniem.cs",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH06_NetDesignPatterns\\Workshop01\\ObslugaDzialanZwiazanychzZamowieniem.cs",
-              "RelativeToolTip": "CH06_NetDesignPatterns\\Workshop01\\ObslugaDzialanZwiazanychzZamowieniem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:25:06.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ZarzadzanieStatusemZamowienia.cs",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH06_NetDesignPatterns\\Workshop01\\ZarzadzanieStatusemZamowienia.cs",
-              "RelativeDocumentMoniker": "CH06_NetDesignPatterns\\Workshop01\\ZarzadzanieStatusemZamowienia.cs",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH06_NetDesignPatterns\\Workshop01\\ZarzadzanieStatusemZamowienia.cs",
-              "RelativeToolTip": "CH06_NetDesignPatterns\\Workshop01\\ZarzadzanieStatusemZamowienia.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:24:57.426Z"
+              "DocumentIndex": 2,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\WPiAA\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Readme.md",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Readme.md",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\WPiAA\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Readme.md",
+              "RelativeToolTip": "CH01_CodeSmells\\Readme.md",
+              "ViewState": "AgIAAOcCAAAAAAAAAAAAAAQDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-19T08:38:21.304Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "TworzenieZamowien.cs",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH06_NetDesignPatterns\\Workshop01\\TworzenieZamowien.cs",
-              "RelativeDocumentMoniker": "CH06_NetDesignPatterns\\Workshop01\\TworzenieZamowien.cs",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH06_NetDesignPatterns\\Workshop01\\TworzenieZamowien.cs",
-              "RelativeToolTip": "CH06_NetDesignPatterns\\Workshop01\\TworzenieZamowien.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Title": "Comments.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\WPiAA\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\Comments.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\Comments.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\WPiAA\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\Comments.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\Comments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:24:40.388Z"
+              "WhenOpened": "2025-10-19T08:41:51.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShotgunSurgery.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\WPiAA\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\ShotgunSurgery.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\ShotgunSurgery.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\WPiAA\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\ShotgunSurgery.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\ShotgunSurgery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T09:05:09.908Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Powiadomienia.cs",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH06_NetDesignPatterns\\Workshop01\\Powiadomienia.cs",
-              "RelativeDocumentMoniker": "CH06_NetDesignPatterns\\Workshop01\\Powiadomienia.cs",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH06_NetDesignPatterns\\Workshop01\\Powiadomienia.cs",
-              "RelativeToolTip": "CH06_NetDesignPatterns\\Workshop01\\Powiadomienia.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "DocumentIndex": 3,
+              "Title": "LazyClassSolution.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\WPiAA\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\CodeSmellTasks\\Rozwiazania\\LazyClassSolution.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\CodeSmellTasks\\Rozwiazania\\LazyClassSolution.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\WPiAA\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\CodeSmellTasks\\Rozwiazania\\LazyClassSolution.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\CodeSmellTasks\\Rozwiazania\\LazyClassSolution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:24:17.457Z"
+              "WhenOpened": "2025-10-19T09:01:04.489Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ObliczanieKosztowDostawy.cs",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH06_NetDesignPatterns\\Workshop01\\ObliczanieKosztowDostawy.cs",
-              "RelativeDocumentMoniker": "CH06_NetDesignPatterns\\Workshop01\\ObliczanieKosztowDostawy.cs",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH06_NetDesignPatterns\\Workshop01\\ObliczanieKosztowDostawy.cs",
-              "RelativeToolTip": "CH06_NetDesignPatterns\\Workshop01\\ObliczanieKosztowDostawy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
+              "DocumentIndex": 0,
+              "Title": "ShotgunSurgerySolution.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\WPiAA\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\CodeSmellTasks\\Rozwiazania\\ShotgunSurgerySolution.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\CodeSmellTasks\\Rozwiazania\\ShotgunSurgerySolution.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\WPiAA\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\CodeSmellTasks\\Rozwiazania\\ShotgunSurgerySolution.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\CodeSmellTasks\\Rozwiazania\\ShotgunSurgerySolution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:24:00.504Z"
+              "WhenOpened": "2025-10-19T09:04:28.883Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH06_NetDesignPatterns\\Zadania\\README.md",
-              "RelativeDocumentMoniker": "CH06_NetDesignPatterns\\Zadania\\README.md",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH06_NetDesignPatterns\\Zadania\\README.md",
-              "RelativeToolTip": "CH06_NetDesignPatterns\\Zadania\\README.md",
-              "ViewState": "AQIAAMwAAAAAAAAAAAAAAK4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-09-12T23:22:55.706Z"
+              "DocumentIndex": 4,
+              "Title": "SpeculativeGeneralitySolution.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\WPiAA\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\CodeSmellTasks\\Rozwiazania\\SpeculativeGeneralitySolution.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\CodeSmellTasks\\Rozwiazania\\SpeculativeGeneralitySolution.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\WPiAA\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\CodeSmellTasks\\Rozwiazania\\SpeculativeGeneralitySolution.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\CodeSmellTasks\\Rozwiazania\\SpeculativeGeneralitySolution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T08:59:49.114Z",
+              "EditorCaption": ""
             }
           ]
         }
