@@ -29,16 +29,16 @@ namespace RefactoringToDesignPatterns.CH06_NetDesignPatterns.ZRozwiazania.Single
             Random rand = new Random();
             return "KeyAcess" + rand.Next(10000, 99999).ToString();
         }
-        public string RetrieveAcessKey()
+        public string GetAcessKey()
         {
             lock(_lock)
             {
                 if (_consumedKey) throw new InvalidOperationException("Klucz juz został wydany");
+
+
                 _consumedKey = true;
 
-                var key = _accessKey;
-                
-                return key;
+                return _accessKey;
             }
         }
     }
