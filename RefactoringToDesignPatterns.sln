@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefactoringToDesignPatterns
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SantaClausFactoryLive", "..\SantaClausFactoryLive\SantaClausFactoryLive.csproj", "{022873F3-A4F9-40B7-9D7B-8C3DB6CA657C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherFacade", "CH06_NetDesignPatterns\ZRozwiazania\Facade\WeatherFacade\WeatherFacade.csproj", "{7D53D4B8-4E73-41C4-9CEA-89A60944F090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "CH06_NetDesignPatterns\ZRozwiazania\Bridge\Bridge\Bridge.csproj", "{3BF5A026-6EE6-47B4-A72D-ED6E61C85C75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{022873F3-A4F9-40B7-9D7B-8C3DB6CA657C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{022873F3-A4F9-40B7-9D7B-8C3DB6CA657C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{022873F3-A4F9-40B7-9D7B-8C3DB6CA657C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D53D4B8-4E73-41C4-9CEA-89A60944F090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D53D4B8-4E73-41C4-9CEA-89A60944F090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D53D4B8-4E73-41C4-9CEA-89A60944F090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D53D4B8-4E73-41C4-9CEA-89A60944F090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BF5A026-6EE6-47B4-A72D-ED6E61C85C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF5A026-6EE6-47B4-A72D-ED6E61C85C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF5A026-6EE6-47B4-A72D-ED6E61C85C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF5A026-6EE6-47B4-A72D-ED6E61C85C75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

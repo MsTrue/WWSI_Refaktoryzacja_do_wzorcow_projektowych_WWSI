@@ -2,8 +2,8 @@
 
 Inżynieryjne wzorce projektowe
 1. kreacyjne: 
-	1. Singleton, 
-	1. Factory, 
+	1. Singleton, do zrobienia
+	1. Factory, do zrobienia
 	1. Factory Method
 	1. Abstract Factory
 	1. Builder, 
