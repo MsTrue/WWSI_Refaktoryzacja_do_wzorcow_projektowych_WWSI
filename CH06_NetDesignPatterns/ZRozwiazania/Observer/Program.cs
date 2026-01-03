@@ -22,6 +22,10 @@ namespace RefactoringToDesignPatterns.CH06_NetDesignPatterns.ZRozwiazania.Observ
             lecturer.Subscribe(student2);
             lecturer.Subscribe(student3);
 
+            lecturer.SetGrade("Asia", 4);
+            lecturer.SetGrade("Kasia", 3);
+            lecturer.SetGrade("Basia", 5);
+
             //wyniki
             lecturer.GiveResults();
 
